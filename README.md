@@ -5,3 +5,5 @@ Here's the context: The tour spans a month, featuring both morning and evening t
 - Total cost: $900
 - Touring company covers: $450
 - Remaining $450 is shared among participants.
+
+  I've uploaded the raw data used in this analysis for your convenience.
